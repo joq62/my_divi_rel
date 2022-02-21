@@ -1,6 +1,7 @@
 all:
 	rm -rf  *~;
-	rebar3 release;
+	rebar3 compile;
+	rebar3 as prod tar;
 	echo Done
 eunit:
 	rm -rf  *~;
