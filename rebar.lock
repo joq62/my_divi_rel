@@ -1,0 +1,4 @@
+[{<<"rb_my_divi">>,
+  {git,"git://github.com/joq62/rb_my_divi.git",
+       {ref,"d11eec9ffb90e85989bb43b4e632c216a70a7730"}},
+  0}].
